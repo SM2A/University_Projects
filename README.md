@@ -1,2 +1,3 @@
-# University_Projects
-All of my projects in University of Tehran
+# University Projects
+
+This repositoru contains all of my projects in courses that I took at University of Tehran
