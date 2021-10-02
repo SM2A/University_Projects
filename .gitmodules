@@ -1,3 +1,6 @@
 [submodule "Introduction to Computing Systems and Programming"]
 	path = Introduction to Computing Systems and Programming
 	url = https://github.com/SM2A/Introduction_to_Computing_Systems_and_Programming_Course_Projects
+[submodule "Advanced Programming"]
+	path = Advanced Programming
+	url = https://github.com/SM2A/Advanced_Programming_Course_Projects
