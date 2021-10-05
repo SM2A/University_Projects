@@ -4,3 +4,6 @@
 [submodule "Advanced Programming"]
 	path = Advanced Programming
 	url = https://github.com/SM2A/Advanced_Programming_Course_Projects
+[submodule "Engineering Probability and Statistics"]
+	path = Engineering Probability and Statistics
+	url = https://github.com/SM2A/Engineering_Probability_and_Statistics_Course_Project
