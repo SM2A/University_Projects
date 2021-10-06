@@ -10,3 +10,6 @@
 [submodule "Digital Logic Design"]
 	path = Digital Logic Design
 	url = https://github.com/SM2A/Digital_Logic_Design_Course_Projects
+[submodule "Digital Logic Design Lab"]
+	path = Digital Logic Design Lab
+	url = https://github.com/SM2A/Digital_Logic_Design_Lab_Course_Projects
