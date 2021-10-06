@@ -7,3 +7,6 @@
 [submodule "Engineering Probability and Statistics"]
 	path = Engineering Probability and Statistics
 	url = https://github.com/SM2A/Engineering_Probability_and_Statistics_Course_Project
+[submodule "Digital Logic Design"]
+	path = Digital Logic Design
+	url = https://github.com/SM2A/Digital_Logic_Design_Course_Projects
