@@ -19,3 +19,6 @@
 [submodule "Artificial Intelligence"]
 	path = Artificial Intelligence
 	url = https://github.com/SM2A/Artificial_Intelligence_Course_Projects
+[submodule "Signals and Systems"]
+	path = Signals and Systems
+	url = https://github.com/SM2A/Signals_and_Systems_Course_Projects
