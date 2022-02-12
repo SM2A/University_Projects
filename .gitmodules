@@ -16,3 +16,6 @@
 [submodule "Computer Architecture"]
 	path = Computer Architecture
 	url = https://github.com/SM2A/Computer_Architecture_Course_Projects
+[submodule "Artificial Intelligence"]
+	path = Artificial Intelligence
+	url = https://github.com/SM2A/Artificial_Intelligence_Course_Projects
