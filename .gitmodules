@@ -28,3 +28,6 @@
 [submodule "Operating System Lab"]
 	path = Operating System Lab
 	url = https://github.com/SM2A/Operating_System_Lab_Course_Projects
+[submodule "Compiler and Programming Languages Design"]
+	path = Compiler and Programming Languages Design
+	url = https://github.com/SM2A/Compiler_and_Programming_Languages_Design_Course_Projects
