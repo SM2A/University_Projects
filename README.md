@@ -11,3 +11,5 @@ This repository contains all of computer assignments at University of Tehran
 7. Artificial Intelligence - Fall 2021
 8. Signals and Systems - Fall 2021
 9. Operating System - Fall 2021
+10. Operating System Lab - Fall 2021
+11. Compiler and Programming Languages Design - Fall 2021
