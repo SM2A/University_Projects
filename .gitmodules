@@ -25,3 +25,6 @@
 [submodule "Operating System"]
 	path = Operating System
 	url = https://github.com/SM2A/Operating_System_Course_Projects
+[submodule "Operating System Lab"]
+	path = Operating System Lab
+	url = https://github.com/SM2A/Operating_System_Lab_Course_Projects
