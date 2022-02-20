@@ -31,3 +31,6 @@
 [submodule "Compiler and Programming Languages Design"]
 	path = Compiler and Programming Languages Design
 	url = https://github.com/SM2A/Compiler_and_Programming_Languages_Design_Course_Projects
+[submodule "Computer Aided Design"]
+	path = Computer Aided Design
+	url = https://github.com/SM2A/Computer_Aided_Design_Course_Projects
