@@ -14,4 +14,3 @@ This repository contains all of computer assignments at University of Tehran
 10. [Operating System Lab - Fall 2021](https://github.com/SM2A/Operating_System_Lab_Course_Projects)
 11. [Compiler and Programming Languages Design - Fall 2021](https://github.com/SM2A/Compiler_and_Programming_Languages_Design_Course_Projects)
 12. [Computer Aided Design - Fall 2021](https://github.com/SM2A/Computer_Aided_Design_Course_Projects)
- 
