@@ -1,6 +1,6 @@
 # University Projects
 
-This repository contains all of computer assignments at University of Tehran
+This repository contains all of my computer assignments at University of Tehran
 
 1. [Introduction to Computing Systems and Programming - Fall 2019](https://github.com/SM2A/Introduction_to_Computing_Systems_and_Programming_Course_Projects)
 2. [Advanced Programming - Spring 2020](https://github.com/SM2A/Advanced_Programming_Course_Projects)
