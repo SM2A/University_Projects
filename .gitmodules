@@ -34,3 +34,6 @@
 [submodule "Computer Aided Design"]
 	path = Computer Aided Design
 	url = https://github.com/SM2A/Computer_Aided_Design_Course_Projects
+[submodule "Computer Graphics"]
+	path = Computer Graphics
+	url = https://github.com/SM2A/Computer_Graphics
