@@ -37,3 +37,6 @@
 [submodule "Computer Graphics"]
 	path = Computer Graphics
 	url = https://github.com/SM2A/Computer_Graphics
+[submodule "Computer Architecture Lab"]
+	path = Computer Architecture Lab
+	url = https://github.com/SM2A/Computer_Architecture_Lab_Course_Projects
