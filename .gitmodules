@@ -40,3 +40,6 @@
 [submodule "Computer Architecture Lab"]
 	path = Computer Architecture Lab
 	url = https://github.com/SM2A/Computer_Architecture_Lab_Course_Projects
+[submodule "Computer Networks"]
+	path = Computer Networks
+	url = https://github.com/SM2A/Computer_Networks_Course_Projects
