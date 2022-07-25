@@ -34,3 +34,12 @@
 [submodule "Computer Aided Design"]
 	path = Computer Aided Design
 	url = https://github.com/SM2A/Computer_Aided_Design_Course_Projects
+[submodule "Computer Graphics"]
+	path = Computer Graphics
+	url = https://github.com/SM2A/Computer_Graphics
+[submodule "Computer Architecture Lab"]
+	path = Computer Architecture Lab
+	url = https://github.com/SM2A/Computer_Architecture_Lab_Course_Projects
+[submodule "Computer Networks"]
+	path = Computer Networks
+	url = https://github.com/SM2A/Computer_Networks_Course_Projects
