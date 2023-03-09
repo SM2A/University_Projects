@@ -46,3 +46,6 @@
 [submodule "Software Testing"]
 	path = Software Testing
 	url = https://github.com/SM2A/Software_Testing
+[submodule "Software Engineering"]
+	path = Software Engineering
+	url = https://github.com/SM2A/SE_Intro
