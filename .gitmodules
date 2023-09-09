@@ -52,3 +52,6 @@
 [submodule "Cyber-Physical Systems"]
 	path = Cyber-Physical Systems
 	url = https://github.com/SM2A/CPS_Course_Project
+[submodule "Internet Engineering"]
+	path = Internet Engineering
+	url = https://github.com/SM2A/Internet_Engineering_Course_Project
