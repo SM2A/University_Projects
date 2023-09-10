@@ -55,3 +55,6 @@
 [submodule "Internet Engineering"]
 	path = Internet Engineering
 	url = https://github.com/SM2A/Internet_Engineering_Course_Project
+[submodule "Introduction to E-Learning"]
+	path = Introduction to E-Learning
+	url = https://github.com/SM2A/Introduction_To_E_Learning_Course_Project
