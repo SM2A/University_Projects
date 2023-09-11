@@ -58,3 +58,6 @@
 [submodule "Introduction to E-Learning"]
 	path = Introduction to E-Learning
 	url = https://github.com/SM2A/Introduction_To_E_Learning_Course_Project
+[submodule "Advanced Software Testing"]
+	path = Advanced Software Testing
+	url = https://github.com/SM2A/Advanced_Software_Testing_Course_Project
