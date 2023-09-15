@@ -1,6 +1,6 @@
 # University Projects
 
-This repository contains all of my computer assignments at University of Tehran
+This repository contains all of my computer assignments at the University of Tehran
 
 1. [Introduction to Computing Systems and Programming - Fall 2019](https://github.com/SM2A/Introduction_to_Computing_Systems_and_Programming_Course_Projects)
 2. [Advanced Programming - Spring 2020](https://github.com/SM2A/Advanced_Programming_Course_Projects)
@@ -18,4 +18,8 @@ This repository contains all of my computer assignments at University of Tehran
 14. [Computer Architecture Lab - Spring 2022](https://github.com/SM2A/Computer_Architecture_Lab_Course_Projects)
 15. [Computer Networks - Spring 2022 & Fall 2022](https://github.com/SM2A/Computer_Networks_Course_Projects)
 16. [Software Testing - Fall 2022](https://github.com/SM2A/Software_Testing)
-17. [Software Engineering - Fall2022](https://github.com/SM2A/SE_Intro)
+17. [Software Engineering - Fall 2022](https://github.com/SM2A/SE_Intro)
+18. [Cyber-Physical Systems - Spring 2023](https://github.com/SM2A/CPS_Course_Project)
+19. [Internet Engineering - Spring 2023](https://github.com/SM2A/Internet_Engineering_Course_Project)
+20. [Introduction to E-Learning - Spring 2023](https://github.com/SM2A/Introduction_To_E_Learning_Course_Project)
+21. [Advanced Software Testing - Spring 2023](https://github.com/SM2A/Advanced_Software_Testing_Course_Project)

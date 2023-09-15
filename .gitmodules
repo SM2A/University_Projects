@@ -49,3 +49,15 @@
 [submodule "Software Engineering"]
 	path = Software Engineering
 	url = https://github.com/SM2A/SE_Intro
+[submodule "Cyber-Physical Systems"]
+	path = Cyber-Physical Systems
+	url = https://github.com/SM2A/CPS_Course_Project
+[submodule "Internet Engineering"]
+	path = Internet Engineering
+	url = https://github.com/SM2A/Internet_Engineering_Course_Project
+[submodule "Introduction to E-Learning"]
+	path = Introduction to E-Learning
+	url = https://github.com/SM2A/Introduction_To_E_Learning_Course_Project
+[submodule "Advanced Software Testing"]
+	path = Advanced Software Testing
+	url = https://github.com/SM2A/Advanced_Software_Testing_Course_Project
