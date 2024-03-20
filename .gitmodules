@@ -61,3 +61,9 @@
 [submodule "Advanced Software Testing"]
 	path = Advanced Software Testing
 	url = https://github.com/SM2A/Advanced_Software_Testing_Course_Project
+[submodule "Biomedical Signal Processing"]
+	path = Biomedical Signal Processing
+	url = https://github.com/SM2A/Biomedical_Signal_Processing_Course_Project
+[submodule "Machine Learning"]
+	path = Machine Learning
+	url = https://github.com/SM2A/Machine_Learning_Course_Project
