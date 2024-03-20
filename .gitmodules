@@ -64,3 +64,6 @@
 [submodule "Biomedical Signal Processing"]
 	path = Biomedical Signal Processing
 	url = https://github.com/SM2A/Biomedical_Signal_Processing_Course_Project
+[submodule "Machine Learning"]
+	path = Machine Learning
+	url = https://github.com/SM2A/Machine_Learning_Course_Project
