@@ -2,6 +2,8 @@
 
 This repository contains all of my computer assignments at the University of Tehran
 
+## Bachelor 
+
 1. [Introduction to Computing Systems and Programming - Fall 2019](https://github.com/SM2A/Introduction_to_Computing_Systems_and_Programming_Course_Projects)
 2. [Advanced Programming - Spring 2020](https://github.com/SM2A/Advanced_Programming_Course_Projects)
 3. [Digital Logic Design - Fall 2020](https://github.com/SM2A/Digital_Logic_Design_Course_Projects)
@@ -23,3 +25,8 @@ This repository contains all of my computer assignments at the University of Teh
 19. [Internet Engineering - Spring 2023](https://github.com/SM2A/Internet_Engineering_Course_Project)
 20. [Introduction to E-Learning - Spring 2023](https://github.com/SM2A/Introduction_To_E_Learning_Course_Project)
 21. [Advanced Software Testing - Spring 2023](https://github.com/SM2A/Advanced_Software_Testing_Course_Project)
+
+## Master
+
+1. [Biomedical Signal Processing - Fall 2023](https://github.com/SM2A/Biomedical_Signal_Processing_Course_Project)
+2. [Machine Learning - Fall 2023](https://github.com/SM2A/Machine_Learning_Course_Project)
