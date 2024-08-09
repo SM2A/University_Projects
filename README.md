@@ -30,3 +30,5 @@ This repository contains all of my computer assignments at the University of Teh
 
 1. [Biomedical Signal Processing - Fall 2023](https://github.com/SM2A/Biomedical_Signal_Processing_Course_Project)
 2. [Machine Learning - Fall 2023](https://github.com/SM2A/Machine_Learning_Course_Project)
+3. [Complex Networks - Spring 2014](https://github.com/SM2A/Complex_Networks_Course_Project)
+4. [Application of Intelligent Systems in Medicine - Spring 2024](https://github.com/SM2A/Application_Of_Intelligent_Systems_In_Medicine_Course_Project)
