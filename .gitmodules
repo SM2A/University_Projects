@@ -67,3 +67,6 @@
 [submodule "Machine Learning"]
 	path = Machine Learning
 	url = https://github.com/SM2A/Machine_Learning_Course_Project
+[submodule "Application of Intelligent Systems in Medicine"]
+	path = Application of Intelligent Systems in Medicine
+	url = https://github.com/SM2A/Application_Of_Intelligent_Systems_In_Medicine_Course_Project
